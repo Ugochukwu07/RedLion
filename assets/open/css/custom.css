@@ -1,0 +1,19 @@
+#rev_slider_268_1_wrapper,
+#rev_slider_268_1,
+#rev_slider_268_1_forcefullwidth {
+    height: 70vh !important;
+}
+
+#slide-758-layer-2 {
+    font-size: 17px;
+}
+.menu-bars .menu-links li a{
+    color: white;
+}
+@media (min-width: 900px) {
+    #rev_slider_268_1_wrapper,
+    #rev_slider_268_1,
+    #rev_slider_268_1_forcefullwidth {
+        height: 100vh !important;
+    }
+}
